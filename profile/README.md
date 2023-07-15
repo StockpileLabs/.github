@@ -1,12 +1,29 @@
-## Hi there 👋
+<img src="https://i.imgur.com/EwiumFI.png">
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center">🚀 Welcome to Stockpile! 🚀</h1>
+ <br>
+  <div align="center">
+    <a href="https://stockpile.pro">Website</a>
+    •
+    <a href="https://twitter.com/GoStockpile">Twitter</a>
+    •
+    <a href="https://linkedin.com/gostockpile">LinkedIn</a>
+    •
+    <a href="https://docs.stockpile.pro">Core Docs</a>
+  </div>
+ <br>
+<div>
+  <h2>✨ Who are we?</h2>
+  <p>
+    Stockpile is an organization dedicated to building general tools, funding primitives, 
+    and being an overall support system for Solana ecosystem projects and initiatives. 
+    Our mission is to empower people, projects, organizations and beyond with robust, 
+    decentralized funding. 
+  </p>
+  <p>
+    Our flagship product is the Stockpile platform, which is a crowdfunding platform for projects
+    and causes making Web3 matter. In addition, we have the open-source Stockpile Protocol: a robust
+    funding primitive which encapsulates general crowdfunding, quadratic funding, and milestone-based
+    funding all in one package. 
+  </p>
+</div>
