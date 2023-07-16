@@ -7,7 +7,7 @@
     •
     <a href="https://twitter.com/GoStockpile">Twitter</a>
     •
-    <a href="https://linkedin.com/gostockpile">LinkedIn</a>
+    <a href="https://www.linkedin.com/company/gostockpile/">LinkedIn</a>
     •
     <a href="https://docs.stockpile.pro">Core Docs</a>
   </div>
