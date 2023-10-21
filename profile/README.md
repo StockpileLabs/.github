@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/EwiumFI.png">
+<img src="https://i.imgur.com/hA5WEnT.jpg">
 
 <h1 align="center">🚀 Welcome to Stockpile! 🚀</h1>
  <br>
